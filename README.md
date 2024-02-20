@@ -1,4 +1,7 @@
-# restro
-Restaurant application websit
+# Restaurant Menu Application
 
-On demand order !1 
+Food Menu with Details
+
+This is tech food company which displays food items with price
+
+edited 
